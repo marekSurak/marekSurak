@@ -1,5 +1,7 @@
-### Hi there <img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif height="30" width="30" align="center" />
-
+### Hi there
+<span>
+<img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif height="30" width="30" align="center" />
+</span>
 <!--
 **marekSurak/marekSurak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
